@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.head_nav {
+  display: flex;
+  background-color: #3155b0;
+  color: #61dafb;
+
+  
+}
+
+li {
+  height: 10px;
+  margin: 30px;
+  display: flexbox;
+  align-items: center;
+}
